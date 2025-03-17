@@ -17,3 +17,7 @@ You deploy my being good
 ## How to contribute
 
 By being incredible
+
+###Copyright
+
+Mazen elmikaty 2025
