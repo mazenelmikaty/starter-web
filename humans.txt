@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Mazen Elmikaty mazen@g.com mazen
 
 # THANKS
 
