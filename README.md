@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-Hi My name is mazen and I like to study Git and Github. Adding a line for rebasing example
+Hi My name is mazen and I like to study Git and Github. Adding a line for rebasing example. Then more changes from myfeature branch too.
 
 ## Introduction
 
