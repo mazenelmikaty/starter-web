@@ -21,4 +21,4 @@ ndkvndkvnf
 
 ###Copyright
 
-Mazen elmikaty 2025
+Mazen elmikaty 2025. All rights reserved.
